@@ -1,3 +1,20 @@
 body{
-    background-color: red;
+    background-image: url(https://ih1.redbubble.net/image.2397170407.5990/flat,750x,075,f-pad,750x1000,f8f8f8.jpg);
+}
+
+.pamatlaukums{
+    background-color: blanchedalmond;
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: auto;
+}
+
+.cataZina{
+    background-color: rgb(186, 191, 155);
+    height: 450px;
+    padding: 10px;
+    overflow: scroll;
+    color: black;
 }
