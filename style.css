@@ -1,5 +1,7 @@
 body{
     background-image: url(https://ih1.redbubble.net/image.2397170407.5990/flat,750x,075,f-pad,750x1000,f8f8f8.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .pamatlaukums{
