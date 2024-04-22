@@ -8,3 +8,8 @@ function sutitZinu()
     console.log('sutitZinu()darbojas');
     zinas.innerHTML = zinas.innerHTML+ '<br>'+zina.value;
 }
+function ieladetChataZinas()
+{
+    let datiNoServera = await fetch('chatazinas.txt');
+    let dati = await datiNoServera.text;
+}
